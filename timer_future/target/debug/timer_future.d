@@ -1,0 +1,1 @@
+D:\Pascal\School\ Files\Sem\ 4\AdProg\tutorial10-adpro\timer_future\target\debug\timer_future.exe: D:\Pascal\School\ Files\Sem\ 4\AdProg\tutorial10-adpro\timer_future\src\lib.rs D:\Pascal\School\ Files\Sem\ 4\AdProg\tutorial10-adpro\timer_future\src\main.rs
